@@ -1,0 +1,28 @@
+name: DiMella
+favicon: null
+layout_spectrum: 0.9880085394252092
+typography_spectrum: 0.8534985492005944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.00884733023121953
+  lightness: 0.6769955214112997
+  saturation: 0.5803329981863499
+  rhythmicContrast: 0.4175137341953814
+purpose: []
